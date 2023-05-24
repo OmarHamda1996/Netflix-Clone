@@ -1,6 +1,5 @@
 
 import {Card} from 'react-bootstrap'
-// import {Button} from 'react-bootstrap'
 import Button from 'react-bootstrap/Button'
 import ModalMovie from '../ModalMovie/ModalMovie'
 import { useState } from 'react'
